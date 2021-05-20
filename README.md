@@ -36,8 +36,8 @@ live_demo_build_trt.ipynb: Optimize the trained model using TensorRT for faster 
 
 **Note**: For Collision Avoidance, the ```Blocked``` class should include images of obstacles such as **cars**, **people**, **stop signs** etc. captured on the track, meanwhile the ```Free``` class should include background images of the empty track where Jetbot should be free to move around.
 
-3) Save the TRT models inside of the RoadFollowing+CollisionAvoidance folder and run the combine_scripts.ipynb.
+3) Save the TRT models inside the "combine_scripts" folder and run the "RoadFollowing+CollisionAvoidance.ipynb" notebook.
 
-**Note**: The object detection threshold can be adjusted using the "blocked threshold" slider and the time for stop (after object is removed) can be adjusted using the "time for stop" slider.
+**Note**: The object detection threshold can be adjusted using the "blocked threshold" slider and the time for stop (after an object has been removed) can be adjusted using the "time for stop" slider.
 
 ## Video Results
