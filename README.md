@@ -40,4 +40,8 @@ live_demo_build_trt.ipynb: Optimize the trained model using TensorRT for faster 
 
 **Note**: The object detection threshold can be adjusted using the "blocked threshold" slider and the time for stop (after an object has been removed) can be adjusted using the "time for stop" slider.
 
-## Video Results
+## Live Demo
+
+
+
+Training Datasets: Example of images that were used for training both models can be found in this [link](https://drive.google.com/drive/folders/1Dry1vjTSaar014Pxlp1s3_ckTt5B6zeE)
