@@ -14,7 +14,7 @@ Road Following in Jetbot is a regression task which teaches the Jetbot to detect
 
 ## Road Following + Collision Avoidance
 
-This project will mainly focus on combining both optimized **regression** and **classification** models into one notebook to enable the Jetbot to follow a specific path on the track and at the same time also be able to avoid collisions with obstacles that come on it's way by bringing the Jetbot into a complete halt.
+This project will mainly focus on combining both optimized **regression** and **classification** models into one notebook to enable the Jetbot to follow a specific path on the track and at the same time also be able to avoid collisions with obstacles that come on it's way in real-time by bringing the Jetbot into a complete halt.
 
 ## How to Run
 
