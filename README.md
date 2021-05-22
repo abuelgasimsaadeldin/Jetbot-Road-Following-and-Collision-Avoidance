@@ -14,7 +14,7 @@ Road Following in Jetbot is a regression task which teaches the Jetbot to detect
 
 ## Road Following + Collision Avoidance
 
-This project will mainly focus on combining both optimized **regression** and **classification** models into one notebook to enable the Jetbot to follow a specific path on the track and at the same time also be able to avoid collisions with obstacles that come on it's way by bringing the Jetbot into a complete halt.
+This project will mainly focus on combining both optimized **regression** and **classification** models into one notebook to enable the Jetbot to follow a specific path on the track and at the same time also be able to avoid collisions with obstacles that come on it's way in real-time by bringing the Jetbot into a complete halt.
 
 ## How to Run
 
@@ -40,4 +40,8 @@ live_demo_build_trt.ipynb: Optimize the trained model using TensorRT for faster 
 
 **Note**: The object detection threshold can be adjusted using the "blocked threshold" slider and the time for stop (after an object has been removed) can be adjusted using the "time for stop" slider.
 
-## Video Results
+## Live Demo
+
+
+
+Training Datasets: Example of images that were used for training both models can be found in this [link](https://drive.google.com/drive/folders/1Dry1vjTSaar014Pxlp1s3_ckTt5B6zeE)
