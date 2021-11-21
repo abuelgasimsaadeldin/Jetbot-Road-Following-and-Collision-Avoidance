@@ -1,5 +1,7 @@
 # Combine Jetbot Road Following and Collision Avoidance tasks
 
+**Notice: This repo was created solely as a requirement for receiving the Nvidia Jetson AI Specialist Certificate**
+
 Jetbot is an open source AI Robot based on the Nvidia Jetson Nano ([Jetbot Repository](https://github.com/NVIDIA-AI-IOT/jetbot))
 
 It is used for educational purpose and can perform multiple tasks including Road Following, Collision Avoidance and Object Following.
